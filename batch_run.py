@@ -124,10 +124,10 @@ def batch_run():
 
     cbs = g_cbs
 
-    labels = ['SymSanAFL']
+    labels = ['SymSan']
 
 
-    trials = range(1, 6)
+    trials = range(1, 4)
 
     for cb in cbs:
         for label in labels:
