@@ -124,7 +124,7 @@ def batch_run():
 
     cbs = g_cbs
 
-    labels = ['SymSan']
+    labels = ['SymSan', 'SymCC']
 
 
     trials = range(1, 4)
